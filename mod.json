@@ -27,5 +27,15 @@
 		"sprites": [
 			"res/spr/*"
 		]
+	},
+	"issues": {
+		"info": "Thank you for contributing!",
+		"url": "https://github.com/OmgRod/Geometrize2GD/issues"
+	},
+	"tags": ["content", "editor", "utility", "offline", "enhancement", "universal"],
+	"links": {
+		"community": "https://discord.gg/vK3DuqJwyW",
+		"homepage": "https://omgrod.me",
+		"source": "https://github.com/OmgRod/Geometrize2GD"
 	}
 }
