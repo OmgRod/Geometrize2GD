@@ -16,6 +16,16 @@
 			"id": "alphalaneous.editortab_api",
 			"importance": "required",
 			"version": ">=v1.0.7"
+		},
+		{
+			"id": "hjfod.gmd-api",
+			"importance": "required",
+			"version": ">=v1.4.1"
 		}
-	]
+	],
+	"resources": {
+		"sprites": [
+			"res/spr/*"
+		]
+	}
 }
