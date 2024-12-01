@@ -1,3 +1,2 @@
-# Template Mod
+# Geometrize2GD
 
-Edit about.md to change this

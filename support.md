@@ -1,1 +1,3 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+[Ko-fi](https://ko-fi.com/omgrod)
+
+Thank you for supporting the creation of this mod!

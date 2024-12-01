@@ -65,10 +65,10 @@ $execute {
         
         arr->addObject(btn);
 
-        CCLabelBMFont* textLabel = CCLabelBMFont::create("G", "bigFont.fnt");
-        textLabel->setScale(0.4f);
+        CCSprite* logo = CCSprite::create("geometrizeLogo.png"_spr);
+        logo->setScale(0.5f);
 
-        EditorTabUtils::setTabIcons(toggler, textLabel, textLabel);
+        EditorTabUtils::setTabIcons(toggler, logo, logo);
 
         return EditorTabUtils::createEditButtonBar(arr, ui);
     }, [&](EditorUI*, bool state, CCNode*) {
